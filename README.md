@@ -1,2 +1,2 @@
 # TICK-TOCK
-This is a simple clock which can change the background colour according with time. Its a simple one but interesting. Check that out !
+This is a simple clock which can change the background colour according with time. Its a simple one but interesting. Check that out at https://ticktockclock.herokuapp.com/ !
